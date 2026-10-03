@@ -7,11 +7,12 @@
 
 ### 👨‍💻 About Me
 
-Senior ERPNext & Frappe Framework Specialist with over 10 years in IT and 7+ years dedicated to building, customizing, and scaling enterprise solutions[cite: 1]. Experienced in orchestrating high-impact public sector and enterprise deployments, including the **MP Government e-Nagar Palika project** and **IIT Delhi customizations**[cite: 1, 2].
+Senior ERPNext & Frappe Framework Specialist with over 10 years in IT and 7+ years dedicated to building, customizing, and scaling enterprise solutions. Experienced in orchestrating high-impact public sector and enterprise deployments, including the **MP Government e-Nagar Palika project** and **IIT Delhi customizations**.
 
-- 🔭 **Currently Focusing On:** Enterprise ERP architecture, Frappe v14/v15 migrations, and SAP-to-Frappe data pipelines[cite: 2].
-- 🏛️ **Proven Scale:** Delivered 50+ live deployments covering public sector platforms, biometric automation, and complex payment ecosystem integrations[cite: 2, 3].
-- 📍 **Location:** Mumbai, India[cite: 1]
+- ⚙️ **Framework Expertise:** Worked extensively on Frappe Framework and ERPNext from **Version 10 and above** (v10 to v16).
+- 🔭 **Currently Focusing On:** Enterprise ERP architecture, Frappe v14/v15 migrations, and SAP-to-Frappe data pipelines.
+- 🏛️ **Proven Scale:** Delivered 50+ live deployments covering public sector platforms, biometric automation, and complex payment ecosystem integrations.
+- 📍 **Location:** Mumbai, India
 
 ---
 
@@ -45,31 +46,31 @@ Senior ERPNext & Frappe Framework Specialist with over 10 years in IT and 7+ yea
 
 ### 🚀 Key Projects & Architectural Highlights
 
-* **MP e-Nagar Palika (Public Sector Project)**[cite: 1, 2]
-  * Integrated multi-channel payment gateways (PhonePe, Razorpay, Axis Bank) with Frappe v15[cite: 3].
-  * Configured integrations for external POS hardware, WhatsApp notifications, and SMS services[cite: 3].
-  * Engineered secure REST API backends consumed by Angular web portals and mobile clients[cite: 3].
+* **MP e-Nagar Palika (Public Sector Project)**
+  * Integrated multi-channel payment gateways (PhonePe, Razorpay, Axis Bank) with Frappe v15.
+  * Configured integrations for external POS hardware, WhatsApp notifications, and SMS services.
+  * Engineered secure REST API backends consumed by Angular web portals and mobile clients.
 
-* **SAP to Frappe Migration & Analytics**[cite: 2]
-  * Designed custom Frappe v15 ingestion apps to ingest, map, and validate legacy SAP records[cite: 2].
-  * Built custom reporting interfaces inside ERPNext for real-time executive decision-making[cite: 2].
+* **SAP to Frappe Migration & Analytics**
+  * Designed custom Frappe v15 ingestion apps to ingest, map, and validate legacy SAP records.
+  * Built custom reporting interfaces inside ERPNext for real-time executive decision-making.
 
-* **Hardware & IoT Integrations**[cite: 3]
-  * Integrated on-premise biometric hardware directly with ERPNext cloud instances to process real-time employee attendance and leave policies[cite: 3, 4].
-  * Engineered integrations with SIP communication servers and GIS mapping interfaces[cite: 3].
+* **Hardware & IoT Integrations**
+  * Integrated on-premise biometric hardware directly with ERPNext cloud instances to process real-time employee attendance and leave policies.
+  * Engineered integrations with SIP communication servers and GIS mapping interfaces.
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Suresh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NadarSuresh&show_icons=true&theme=radical&hide_border=true" alt="Suresh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadarSuresh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 ### 📫 Let's Connect
 
-- **Email:** [rajapandi.nadar007@gmail.com](mailto:rajapandi.nadar007@gmail.com)[cite: 1]
-- **Phone:** +91 88985 57223 / +91 87795 24231[cite: 1]
+- **Email:** [rajapandi.nadar007@gmail.com](mailto:rajapandi.nadar007@gmail.com)
+- **Phone:** +91 88985 57223 / +91 87795 24231
