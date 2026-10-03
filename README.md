@@ -1,7 +1,26 @@
+<!-- 
 # Hi there, I'm Suresh Rajallingam Nadar 👋
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajapandi.nadar007@gmail.com)
+ -->
+<div align="center">
+  <!-- Dynamic Typing Banner focusing on Leadership & Architecture -->
+  <a href="https://linkedin.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Suresh+Rajallingam+%F0%9F%91%8B" alt="Typing SVG" />
+  </a>
+  
+  <p align="center">
+    <strong>Technical Lead & Solutions Architect</strong> specializing in Frappe/ERPNext enterprise transformations, scalable micro-integrations, and team delivery governance.
+  </p> 
+   
+  <!-- Connect & Identity Badges -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/suresh-nadar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:rajapandi.nadar007@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <img src="https://img.shields.io/badge/Location-Mumbai%2C%20India-blue?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+    <img src="https://img.shields.io/badge/Experience-10%2B%20Years%20Total%20%7C%207%2B%20Years%20Frappe-0089FF?style=for-the-badge" alt="Experience" />
+  </p>
+</div>
 
 ---
 
@@ -59,6 +78,8 @@ Senior ERPNext & Frappe Framework Specialist with over 10 years in IT and 7+ yea
   * Integrated on-premise biometric hardware directly with ERPNext cloud instances to process real-time employee attendance and leave policies.
   * Engineered integrations with SIP communication servers and GIS mapping interfaces.
 
+
+<!--
 ---
 
 ### 📊 GitHub Stats
@@ -67,6 +88,8 @@ Senior ERPNext & Frappe Framework Specialist with over 10 years in IT and 7+ yea
   <img src="https://github-readme-stats.vercel.app/api?username=NadarSuresh&show_icons=true&theme=radical&hide_border=true" alt="Suresh's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadarSuresh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
+
+-->
 
 ---
 
